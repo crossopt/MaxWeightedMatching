@@ -2,8 +2,10 @@
 A python3 implementation of a Poly(n) algorithm to find the maximum weighted matching in a non-bipartite graph.
 
 ## How to run:
-randomized small tests -- python3 test_matching.py
-finding a matching -- python3 matching.py
+#### randomized small tests:
+python3 test_matching.py
+#### finding a matching:
+python3 matching.py
 
 ## Input format
 N M  
